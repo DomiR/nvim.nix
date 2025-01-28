@@ -33,3 +33,6 @@ commit:
     fi
 
     git push --quiet
+
+update:
+    nix flake update
